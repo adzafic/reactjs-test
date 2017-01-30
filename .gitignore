@@ -1,5 +1,4 @@
-
-# Created by https://www.gitignore.io/api/node,windows
+ Created by https://www.gitignore.io/api/node,windows
 
 ### Node ###
 # Logs
@@ -71,3 +70,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+prepros.cfg
